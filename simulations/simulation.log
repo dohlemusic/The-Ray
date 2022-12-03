@@ -1,0 +1,65 @@
+Circuit: * C:\Users\MaksymWalczak\source\Dohle\Dohle Ray v3\simulations\simulation.asc
+
+WARNING: Less than two connections to node OUT.  This node is used by R7.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 1.67772
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.60185
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.57862
+vernier = 0.00520833
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.56991
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.56481
+vernier = 0.000578703
+vernier = 0.000771604
+Gmin = 1.56248
+vernier = 0.00102881
+vernier = 0.00137174
+vernier = 0.00068587
+Gmin = 1.55946
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.55739
+vernier = 0.000914493
+vernier = 0.000457246
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Dec 01 14:16:14 2022
+Total elapsed time: 12.065 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1963431
+traniter = 1958592
+tranpoints = 967840
+accept = 959576
+rejected = 8264
+matrix size = 45
+fillins = 91
+solver = Normal
+Matrix Compiler1: 6.27 KB object code size  0.9/0.4/[0.3]
+Matrix Compiler2: 5.06 KB object code size  0.4/0.5/[0.3]
+
