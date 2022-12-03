@@ -1,6 +1,10 @@
 # Documentation
 A detailed description of the pedal can be found on our blog at https://dohlemusic.ch/dohle-ray-from-a-boost-to-a-heavy-fuzz/
 
+# License
+The pedals are published under CC BY-NC-SA 3.0 license https://creativecommons.org/licenses/by-nc-sa/3.0/
+In short, this means you can order the electronics from the schematics we publish for yourself and build them yourself, but you can't sell them and you can't publish derivatives of our works unless you mention us as the original author. If you decide to distribute your modification of our product, you can do so only under the same license, which means it can't be used for commerical purposes. We think this is fair to the users and allows them to tinker with our products, without creating a conflict of interest.
+
 # What is the Ray?
 When we designed the Ray, we wanted that huge dynamic range and detail of 12AX7 tube you can find in some Fender amps, but in a compact form factor, without building an actual tube into the pedal. We are proud to announce that we did it! We made a unique sounding pedal that offers a very similar tonal characteristics and dynamics to big tube combos, in a tiny package! Pluck the strings delicately, and you will hear the sound of your guitar, nearly unaltered, with that discrete warmth of a tube. Now pluck the strings harder and you can hear a beautiful heavy, yet detailed fuzz of a big old combo!
 
