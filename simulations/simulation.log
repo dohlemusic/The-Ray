@@ -1,4 +1,4 @@
-Circuit: * C:\Users\MaksymWalczak\source\Dohle\Dohle Ray v3\simulations\simulation.asc
+Circuit: * C:\Users\MaksymWalczak\source\Dohle\The-Ray\simulations\simulation.asc
 
 WARNING: Less than two connections to node OUT.  This node is used by R7.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
@@ -46,20 +46,20 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Thu Dec 01 14:16:14 2022
-Total elapsed time: 12.065 seconds.
+Date: Sat Dec 03 16:57:46 2022
+Total elapsed time: 11.469 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1963431
-traniter = 1958592
-tranpoints = 967840
-accept = 959576
-rejected = 8264
+totiter = 2009399
+traniter = 2004560
+tranpoints = 980886
+accept = 968577
+rejected = 12309
 matrix size = 45
 fillins = 91
 solver = Normal
-Matrix Compiler1: 6.27 KB object code size  0.9/0.4/[0.3]
+Matrix Compiler1: 6.27 KB object code size  1.1/0.5/[0.3]
 Matrix Compiler2: 5.06 KB object code size  0.4/0.5/[0.3]
 
