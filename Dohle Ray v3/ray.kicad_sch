@@ -1823,7 +1823,7 @@
     (property "Reference" "R10" (id 0) (at 133.35 65.7859 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10k" (id 1) (at 133.35 68.3259 0)
+    (property "Value" "24k" (id 1) (at 133.35 68.3259 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 130.81 67.056 0)
@@ -2314,7 +2314,7 @@
     (property "Reference" "R9" (id 0) (at 133.35 49.2759 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100k" (id 1) (at 133.35 51.8159 0)
+    (property "Value" "24k" (id 1) (at 133.35 51.8159 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 130.81 50.546 0)
@@ -2442,8 +2442,8 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 55.88 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a92599f6-8e7a-4af0-94bd-cf879288cb6a)
-    (property "Reference" "R2" (id 0) (at 36.83 50.165 90))
-    (property "Value" "10k" (id 1) (at 36.83 52.705 90))
+    (property "Reference" "R2" (id 0) (at 36.83 49.53 90))
+    (property "Value" "33k" (id 1) (at 36.83 52.07 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 36.83 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2668,8 +2668,8 @@
   (symbol (lib_id "Device:R_Small") (at 52.07 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid db65d6cf-b8af-4ae7-be89-6cb02b218eac)
-    (property "Reference" "R4" (id 0) (at 52.07 66.548 90))
-    (property "Value" "47k" (id 1) (at 52.07 69.088 90))
+    (property "Reference" "R4" (id 0) (at 52.07 66.04 90))
+    (property "Value" "24k" (id 1) (at 52.07 68.58 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 52.07 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2935,13 +2935,13 @@
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/a92599f6-8e7a-4af0-94bd-cf879288cb6a"
-      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R2") (unit 1) (value "33k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/21fbe1aa-b8a9-42fe-a829-c03aab0f6e55"
       (reference "R3") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/db65d6cf-b8af-4ae7-be89-6cb02b218eac"
-      (reference "R4") (unit 1) (value "47k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R4") (unit 1) (value "24k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/e9306d17-673c-4f61-9462-fdbbdb029457"
       (reference "R5") (unit 1) (value "24k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -2956,10 +2956,10 @@
       (reference "R8") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/7cafa446-00e0-4641-9b9f-19c6ccc5577a"
-      (reference "R9") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R9") (unit 1) (value "24k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/035ae7b8-9555-4334-a7f9-f84468496b25"
-      (reference "R10") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R10") (unit 1) (value "24k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/1f6adf16-21d7-423b-b144-d3a750b26611"
       (reference "SW1") (unit 1) (value "3pdt_footswitch") (footprint "footprints:3pdt_footswitch")
