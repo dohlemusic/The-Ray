@@ -778,7 +778,7 @@
   (gr_arc (start 164.223286 135.963496) (mid 163.6375 137.37771) (end 162.223286 137.963496) (layer "Edge.Cuts") (width 0.2) (tstamp e419300a-5404-42ba-8c9b-e8cd5066ac8e))
   (gr_line (start 164.223286 135.963496) (end 164.223286 98.963496) (layer "Edge.Cuts") (width 0.2) (tstamp e9581bdc-0c32-481f-b3ec-f590264a37c8))
   (gr_line (start 162.223286 96.963496) (end 116.223286 96.963496) (layer "Edge.Cuts") (width 0.2) (tstamp eed5fd95-a7ce-441e-bbe1-d330431c5e6d))
-  (gr_text "Dohle Ray v3.0a" (at 139.2428 111.4044) (layer "F.SilkS") (tstamp 39816a05-674b-4332-a8af-39464149b188)
+  (gr_text "Dohle Ray v3.1" (at 139.2428 111.4044) (layer "F.SilkS") (tstamp 39816a05-674b-4332-a8af-39464149b188)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
